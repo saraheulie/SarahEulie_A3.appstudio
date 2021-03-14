@@ -3,8 +3,6 @@ let cities = []
 let user_input = ""
 let doneWithCities = false
 let i = 0
-let message = ""
-let message2 = ""
 
 // First while loop
 while (doneWithCities === false) {
