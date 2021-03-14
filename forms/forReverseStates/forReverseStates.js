@@ -5,3 +5,4 @@ let states = ["Nebraska","Iowa","Minnesota","South Dakota","North Dakota","Kansa
 for (i=states.length; i >= 0; i--) {
   console.log(states[i])
   }
+  
