@@ -4,4 +4,3 @@ let states = ["Nebraska","Iowa","Minnesota","South Dakota","North Dakota","Kansa
 // For Loop
 for (i=states.length; i >= 0; i--) {
   console.log(states[i])
-  }
