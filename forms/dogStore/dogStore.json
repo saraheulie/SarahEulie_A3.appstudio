@@ -4,9 +4,9 @@
   "attributes": "",
   "background": "",
   "backgroundimage": "",
-  "borderColor": "#02075d",
-  "borderStyle": "solid",
-  "borderWidth": "3",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "0",
   "cached_js": null,
   "cached_js_script_hash": null,
   "children": [
@@ -16,7 +16,7 @@
         "forms",
         "dogStore",
         "Elements",
-        "StoreName.json"
+        "lblStoreName.json"
       ]
     },
     {
@@ -25,7 +25,43 @@
         "forms",
         "dogStore",
         "Elements",
-        "Products.json"
+        "lblDescription.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "dogStore",
+        "Elements",
+        "inptWishList.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "dogStore",
+        "Elements",
+        "lblProductList.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "dogStore",
+        "Elements",
+        "btnSubmit.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "dogStore",
+        "Elements",
+        "lblWishListMessage1.json"
       ]
     }
   ],
@@ -33,7 +69,7 @@
   "designHeight": 0,
   "designWidth": 0,
   "expanded_pmp": null,
-  "fullScreen": "true",
+  "fullScreen": "false",
   "height": 460,
   "id": "dogStore",
   "language": "JavaScript",

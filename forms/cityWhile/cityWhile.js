@@ -1,3 +1,4 @@
+/*
 // Set your variables
 let cities = []
 let user_input = ""
@@ -20,3 +21,5 @@ while (i <= cities.length) {
   console.log(cities[i].toLowerCase())
   i++;
 }
+
+*/

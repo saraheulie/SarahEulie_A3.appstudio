@@ -33,7 +33,22 @@
             "forReverseStates",
             "forReverseStates.json"
           ]
-
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "dogStore",
+            "dogStore.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "ECnestedLoops",
+            "ECnestedLoops.json"
+          ]
         }
       ],
       "configxml": null,
@@ -55,7 +70,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "cityWhile",
+      "firstform": "ECnestedLoops",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
