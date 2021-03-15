@@ -4,5 +4,5 @@ let wishList = []
 
 btnSubmit.onclick=function(){
   wishList.push(inptWishList.value)
-  lblWishListMessage1.value = `Your wish list contains: ${wishList} `
+  lblWishListMessage1.value = `Your wish list contains: ${wishList}`
 }
